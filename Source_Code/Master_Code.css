@@ -1,5 +1,4 @@
-/*This Theme Uses Code From The Following Themes I DO NOT TAKE CREDIT FOR THE CODE USED FROM THEM,Please Check Them Out 
-Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/master/Simplified-Green.theme.css 
+/*SA 
 */
 /* 
                                           `-.`'.-'
@@ -38,7 +37,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
            \_.-''          ``-..____                  ____..-''          ``-._/
             `-._                    ``--...____...--''                    _.-'
                 `-.._                                                _..-'
-                     `-..__           NFLD KNOWS ALL           __..-'
+                     `-..__              İLLÜMEMATİ            __..-'
                            ``-..____                  ____..-''
                                     ``--...____...--''
 */
@@ -49,7 +48,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Update #525";
-  --File-Updated-2020-5-24: url(https://nfld99.com/images/RDLTF.png);
+  --File-Updated-2020-5-24: url(https://www.hapeloglu.com/link-cilekli-icecek-200ml-12714-meyve-suyu-ulker-8414-12-O.jpg);
   --Settings-Dock-Colour: var(--Main-Colour);
   --BetterDocsBlockerWhite: var(--Main-Colour);
   --BetterDocsBlockerBlack1: var(--Background-Colour);
@@ -88,11 +87,11 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
   --background-primary:transparent;
   --background-tertiary:transparent;
   --background-modifier-selected:transparent;
-  --interactive-active:var(--Main-Colour);
+  --interactive-active:var(#f2f2f2);
   --background-modifier-active:transparent;
 }
 
-/* THANKYOU URI FOR HELPING ME UPDATE THIS <3 */
+/* EYW */
 
 [layer-id="user-settings"] .userSettingsAccount-2eMFVR~ :last-child:after{
   margin-top: 10px;
