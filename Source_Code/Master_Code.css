@@ -87,7 +87,7 @@
   --background-primary:transparent;
   --background-tertiary:transparent;
   --background-modifier-selected:transparent;
-  --interactive-active:var(#f2f2f2);
+  --interactive-active:var(--Main-Colour);
   --background-modifier-active:transparent;
 }
 
